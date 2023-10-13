@@ -1,0 +1,91 @@
+@media(min-width:100px) and (max-width:600px){
+	table{
+         width: 100%;
+	}
+}
+
+table
+{
+	border-radius: 12px;
+	background-color: #b1f2f0;
+}
+
+th
+{
+	font-size: 50px;
+	word-spacing: 20px;
+	letter-spacing: 2px;
+	background-color: black;
+    color: goldenrod;
+}
+
+#con:hover
+{
+  color: #f56151;
+  font-size: 20px;
+}
+
+td
+{
+	text-align: center;
+	font-size: 17px;
+}
+td:hover
+{
+	background-color: black;
+	color: white;
+}
+
+#enter
+{
+	width: 100%;
+}
+
+#contact
+{
+	width: 100%;
+}
+
+input
+{
+	text-align: center;
+}
+
+
+textarea
+{
+	width: 100%;
+}
+
+select
+{
+	width: 100%;
+	text-align: center;
+}
+
+#btn1
+{
+	border-radius: 7px;
+	border-color: gold;
+	margin:10px 70px 0px 40px;
+	background-color: silver;
+}
+
+#btn1:active {
+  background-color: white;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#pmo
+{
+	border-radius: 6px;
+	font-size: 17px;
+	padding: 10px 16px;
+	border-color: deepskyblue;
+	color: goldenrod;
+	background-color: ;
+}
+
+
+
